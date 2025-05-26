@@ -1,3 +1,4 @@
+
 # Kaiadmin Lite - Free Bootstrap 5 Admin Dashboard
 ![kaiadminlitethumb (1)](https://github.com/Hizrian/kaiadmin-lite/assets/10692084/4793c6b9-7991-4502-8633-14d9ed0ea486)
 
@@ -59,3 +60,6 @@ Don't worry about getting started – we've documented how to get started using 
 
 
 
+=======
+# depotgithub
+>>>>>>> 431e7e7d65c3415e3d4b1d76d10953fd5918df2a

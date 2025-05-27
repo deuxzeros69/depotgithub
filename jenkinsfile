@@ -1,0 +1,16 @@
+pipeline {
+    agent any
+    stages{  
+    stage('Hello'){
+        steps{
+            echo'Hello world'
+        }
+    }
+    stage('checkout SCM github'){
+        steps {
+            deleteDir()
+            git branch: 'main', credentialsId: 'user-github', url: 'https://github.com/deuxzeros69/depotgithub.git'
+        }
+    }
+}
+}
